@@ -1,0 +1,635 @@
+[
+    {
+        "id": 1,
+        "slug": "ac-repair",
+        "name": "AC Repair",
+        "title": "Professional AC Repair & Service in Kolkata",
+        "description": "Expert air conditioning repair and maintenance services",
+        "full_description": "We provide comprehensive AC repair services including gas refilling, compressor repair, cooling issues, and regular maintenance for all brands and models.",
+        "keywords": "ac repair, air conditioning service, ac maintenance, ac gas filling, ac service kolkata",
+        "min_price": 250,
+        "max_price": 3000,
+        "image": "/images/services/ac-repair.jpg",
+        "type": "Product",
+        "serviceName": "AC Service On Location",
+        "aggregateRating": {
+            "type": "AggregateRating",
+            "ratingValue": "4.9",
+            "reviewCount": 789586
+        },
+        "issues": [
+            "Not cooling",
+            "Water dripping",
+            "Strange smell",
+            "High electricity bill",
+            "Remote not working"
+        ],
+        "brands": [
+            "Daikin",
+            "LG",
+            "Samsung",
+            "Voltas",
+            "Hitachi",
+            "Blue Star",
+            "Carrier"
+        ],
+        "packages": [
+            {
+                "category": "service",
+                "name": "Deep Clean A.C Service (Window)",
+                "originalPrice": 650,
+                "price": 550,
+                "duration": "60mins",
+                "features": [
+                    "Use foam jet technology to remove dust 2 times deeper",
+                    "All the primary brands' window ac servicing"
+                ],
+                "popular": false
+            },
+            {
+                "category": "service",
+                "name": "Deep Clean A.C Service (Split)",
+                "originalPrice": 650,
+                "price": 550,
+                "duration": "60mins",
+                "features": [
+                    "Use foam jet technology to remove dust 2 times deeper",
+                    "All the primary brands' split ac servicing"
+                ],
+                "popular": true
+            },
+            {
+                "category": "installation",
+                "name": "Windows A.C Uninstallation",
+                "originalPrice": 600,
+                "price": 500,
+                "duration": "60mins",
+                "features": [
+                    "The cover and AC will be unmounted by a Q2S Xpert specialist",
+                    "Woodwork and wall cutting aren't included in the service"
+                ]
+            },
+            {
+                "category": "installation",
+                "name": "Split A.C Uninstallation",
+                "originalPrice": 900,
+                "price": 800,
+                "duration": "60mins",
+                "features": [
+                    "Un-installation of both outside and inside units",
+                    "Highly trained technicians to ensure best service"
+                ]
+            },
+            {
+                "category": "installation",
+                "name": "Window A.C Installation",
+                "originalPrice": 1100,
+                "price": 1000,
+                "duration": "60-90mins",
+                "features": [
+                    "Installation site must have an outside frame and a power outlet",
+                    "Woodwork and wall cutting are not part of the service"
+                ]
+            },
+            {
+                "category": "installation",
+                "name": "Split A.C Installation",
+                "originalPrice": 1700,
+                "price": 1600,
+                "duration": "90-120mins",
+                "features": [
+                    "Detailed problem diagnosis and same-day treatment",
+                    "The diagnosis can be changed in relation to the total cost of the bill",
+                    "High-quality replacement parts are used at standard rates"
+                ],
+                "popular": true
+            },
+            {
+                "category": "repair",
+                "name": "Gas Leak Fix & Refill",
+                "originalPrice": 3100,
+                "price": 3000,
+                "duration": "90mins",
+                "features": [
+                    "Installation site must have an outside frame and a power outlet",
+                    "Woodwork and wall cutting are not part of the service"
+                ]
+            },
+            {
+                "category": "repair",
+                "name": "Windows A.C Repair",
+                "originalPrice": 350,
+                "price": 250,
+                "duration": "60mins",
+                "features": [
+                    "Detailed problem diagnosis and same-day treatment",
+                    "The diagnosis can be changed in relation to the total cost of the bill",
+                    "High-quality replacement parts are used at standard rates"
+                ],
+                "popular": true
+            },
+            {
+                "category": "repair",
+                "name": "Split A.C Repair",
+                "originalPrice": 350,
+                "price": 250,
+                "duration": "60mins",
+                "features": [
+                    "Detailed problem diagnosis and same-day treatment",
+                    "A detailed diagnosis, leak detection, repair, and gas filling are all needed for avoiding leaks",
+                    "High-quality replacement parts are used at standard rates"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "slug": "washing-machine-repair",
+        "name": "Washing Machine Repair",
+        "title": "Professional Washing Machine Repair in Kolkata",
+        "description": "Expert washing machine repair and installation services",
+        "full_description": "Complete washing machine repair for all brands including drum replacement, motor repair, leakage fix, and installation services.",
+        "keywords": "washing machine repair, washing machine service, washing machine maintenance, washing machine installation",
+        "min_price": 250,
+        "max_price": 500,
+        "image": "/images/services/washing-machine.jpg",
+        "type": "Product",
+        "serviceName": "Washing Machine Service On Location",
+        "aggregateRating": {
+            "type": "AggregateRating",
+            "ratingValue": "4.8",
+            "reviewCount": 654321
+        },
+        "issues": [
+            "Not starting",
+            "Not spinning",
+            "Water not draining",
+            "Making noise",
+            "Door not closing"
+        ],
+        "brands": [
+            "IFB",
+            "Samsung",
+            "LG",
+            "Whirlpool",
+            "Bosch",
+            "Godrej"
+        ],
+        "packages": [
+            {
+                "category": "service",
+                "name": "Front Load Descaling",
+                "originalPrice": 600,
+                "price": 500,
+                "duration": "1-2 hours",
+                "features": [
+                    "Our front load descaling service is designed to remove mineral",
+                    "Specialized descaling solutions and cleaning cycles"
+                ],
+                "popular": true
+            },
+            {
+                "category": "service",
+                "name": "Top Load Descaling",
+                "originalPrice": 600,
+                "price": 500,
+                "duration": "1-2 hours",
+                "features": [
+                    "This service targets the removal of limescale and detergent residues",
+                    "Effective descaling agents and thorough cleaning techniques"
+                ]
+            },
+            {
+                "category": "installation",
+                "name": "Washing Machine Un-installation",
+                "originalPrice": 500,
+                "price": 400,
+                "duration": "30-45 minutes",
+                "features": [
+                    "Basic tools for disconnection and safety measures",
+                    "Needed when moving homes, upgrading to a new machine"
+                ]
+            },
+            {
+                "category": "installation",
+                "name": "Washing Machine Installation",
+                "originalPrice": 500,
+                "price": 400,
+                "duration": "1-1.5 hours",
+                "features": [
+                    "Expert installation of your new washing machine",
+                    "Installation tools and proper alignment techniques"
+                ],
+                "popular": true
+            },
+            {
+                "category": "repair",
+                "name": "Semi Automatic Check Up",
+                "originalPrice": 350,
+                "price": 250,
+                "duration": "45 minutes to 1 hour",
+                "features": [
+                    "Diagnostic tools and manual inspection",
+                    "Detects and resolves common issues such as water flow problems, drum issues, and control panel malfunctions"
+                ]
+            },
+            {
+                "category": "repair",
+                "name": "Fully Automatic Front Load Check Up",
+                "originalPrice": 350,
+                "price": 250,
+                "duration": "1-1.5 hours",
+                "features": [
+                    "Advanced diagnostic tools and software updates",
+                    "Identifies and fixes issues like drainage problems, motor malfunctions, and control system errors"
+                ],
+                "popular": true
+            },
+            {
+                "category": "repair",
+                "name": "Fully Automatic (Top Load) Check Up",
+                "originalPrice": 350,
+                "price": 250,
+                "duration": "1-1.5 hours",
+                "features": [
+                    "In-depth check-up of fully automatic top load washing machines",
+                    "Diagnostic equipment and performance assessment tools"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "slug": "refrigerator-repair",
+        "name": "Refrigerator Repair",
+        "title": "Professional Refrigerator Repair in Kolkata",
+        "description": "Reliable refrigerator repair and maintenance services",
+        "full_description": "Expert refrigerator repair for all brands. Includes compressor repair, cooling issues, frost buildup, and preventive maintenance.",
+        "keywords": "refrigerator repair, fridge service, fridge maintenance, refrigerator service",
+        "min_price": 250,
+        "max_price": 250,
+        "image": "/images/services/refrigerator.jpg",
+        "type": "Product",
+        "serviceName": "Refrigerator Service On Location",
+        "aggregateRating": {
+            "type": "AggregateRating",
+            "ratingValue": "4.7",
+            "reviewCount": 532198
+        },
+        "issues": [
+            "Not cooling",
+            "Frost buildup",
+            "Water leakage",
+            "Strange noise",
+            "Door seal problem"
+        ],
+        "brands": [
+            "Samsung",
+            "LG",
+            "Whirlpool",
+            "Godrej",
+            "Haier",
+            "Panasonic"
+        ],
+        "packages": [
+            {
+                "category": "repair",
+                "name": "Single Door Refrigerator Check Up",
+                "originalPrice": 350,
+                "price": 250,
+                "duration": "30m to 1hr",
+                "features": [
+                    "Adjusting Thermostat Settings",
+                    "Door Seal Checking",
+                    "Condenser Coil Cleaning"
+                ],
+                "popular": true
+            },
+            {
+                "category": "repair",
+                "name": "Double Door (Non-Inverter) Refrigerator Checkup",
+                "originalPrice": 350,
+                "price": 250,
+                "duration": "30m to 1hr",
+                "features": [
+                    "Fridge Is Not Cooling",
+                    "Not Getting Power",
+                    "Defrost System Checking"
+                ]
+            },
+            {
+                "category": "repair",
+                "name": "Double Door (Inverter) Refrigerator Checkup",
+                "originalPrice": 350,
+                "price": 250,
+                "duration": "30m to 1hr",
+                "features": [
+                    "Fridge not receiving power",
+                    "Door Seal Inspection",
+                    "Ensure that Inverter System working"
+                ],
+                "popular": true
+            },
+            {
+                "category": "repair",
+                "name": "Side by Side Door Refrigerator Check Up",
+                "originalPrice": 350,
+                "price": 250,
+                "duration": "30m to 1hr",
+                "features": [
+                    "Fridge Not Receiving Power",
+                    "Checking door seals and gaskets",
+                    "Ice Maker system checking"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "slug": "tv-repair",
+        "name": "TV Repair",
+        "title": "Professional TV Repair & Installation in Kolkata",
+        "description": "Expert TV repair and installation services",
+        "full_description": "Complete TV repair including screen issues, sound problems, installation, and uninstallation services for all brands and sizes.",
+        "keywords": "tv repair, television service, tv installation, tv mounting, tv uninstallation",
+        "min_price": 300,
+        "max_price": 700,
+        "image": "/images/services/tv-repair.jpg",
+        "type": "Product",
+        "serviceName": "TV Service On Location",
+        "aggregateRating": {
+            "type": "AggregateRating",
+            "ratingValue": "4.8",
+            "reviewCount": 421098
+        },
+        "issues": [
+            "No display",
+            "No sound",
+            "Lines on screen",
+            "Remote not working",
+            "Power issues"
+        ],
+        "brands": [
+            "Samsung",
+            "LG",
+            "Sony",
+            "Mi",
+            "OnePlus",
+            "TCL"
+        ],
+        "packages": [
+            {
+                "category": "repair",
+                "name": "TV Check Up",
+                "originalPrice": 400,
+                "price": 300,
+                "duration": "30-45 minutes",
+                "features": [
+                    "Complete diagnostic and troubleshooting",
+                    "Professional repair recommendations"
+                ],
+                "popular": true
+            },
+            {
+                "category": "installation",
+                "name": "TV Installation - 24\" - 43\"",
+                "originalPrice": 650,
+                "price": 550,
+                "duration": "45-60 minutes",
+                "features": [
+                    "Secure wall or stand mounting",
+                    "Basic setup and connection"
+                ],
+                "popular": true
+            },
+            {
+                "category": "installation",
+                "name": "TV Installation 46\" - 65\"",
+                "originalPrice": 800,
+                "price": 700,
+                "duration": "60-90 minutes",
+                "features": [
+                    "Safe and secure wall mounting",
+                    "Complete setup and calibration"
+                ]
+            },
+            {
+                "category": "installation",
+                "name": "TV Uninstallation 24\"-43\"",
+                "originalPrice": 500,
+                "price": 400,
+                "duration": "30-45 minutes",
+                "features": [
+                    "Safe removal and disconnection",
+                    "Assistance with packing"
+                ]
+            },
+            {
+                "category": "installation",
+                "name": "TV Uninstallation 46\"-65\"",
+                "originalPrice": 700,
+                "price": 600,
+                "duration": "45-60 minutes",
+                "features": [
+                    "Secure disconnection and removal",
+                    "Guidance on packing and storage"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "slug": "kitchen-chimney-cleaning",
+        "name": "Kitchen Chimney Cleaning",
+        "title": "Professional Kitchen Chimney Cleaning in Kolkata",
+        "description": "Expert kitchen chimney cleaning and maintenance",
+        "full_description": "Professional kitchen chimney cleaning removes grease buildup and improves efficiency. Includes filter replacement and inspection.",
+        "keywords": "kitchen chimney cleaning, chimney service, kitchen exhaust cleaning",
+        "min_price": 250,
+        "max_price": 799,
+        "image": "/images/services/kitchen-chimney.jpg",
+        "type": "Product",
+        "serviceName": "Kitchen Chimney Service On Location",
+        "aggregateRating": {
+            "type": "AggregateRating",
+            "ratingValue": "4.5",
+            "reviewCount": 287654
+        },
+        "issues": [
+            "Poor suction",
+            "Greasy filters",
+            "Strange noise",
+            "Auto-clean not working",
+            "Smoke not clearing"
+        ],
+        "brands": [
+            "Elica",
+            "Faber",
+            "Glen",
+            "Hindware",
+            "Kaff",
+            "Kutchina"
+        ],
+        "packages": [
+            {
+                "category": "service",
+                "name": "Chimney Basic Cleaning",
+                "originalPrice": 599,
+                "price": 499,
+                "duration": "1-2 hours",
+                "features": [
+                    "Standard cleaning tools and brushes",
+                    "Every 3-6 months to remove light soot and debris"
+                ],
+                "popular": true
+            },
+            {
+                "category": "service",
+                "name": "Chimney Deep Cleaning",
+                "originalPrice": 899,
+                "price": 799,
+                "duration": "2-4 hours",
+                "features": [
+                    "Advanced cleaning equipment and chemicals",
+                    "Annually or when there is heavy buildup and blockages"
+                ],
+                "popular": true
+            },
+            {
+                "category": "installation",
+                "name": "Chimney Dismantle",
+                "originalPrice": 550,
+                "price": 450,
+                "duration": "Varies depending on the complexity",
+                "features": [
+                    "Professional dismantling tools and safety gear",
+                    "For relocation, major repairs, or replacement"
+                ]
+            },
+            {
+                "category": "installation",
+                "name": "Chimney Installation",
+                "originalPrice": 700,
+                "price": 600,
+                "duration": "3-6 hours",
+                "features": [
+                    "Latest installation techniques and tools",
+                    "When Needed: New homes, kitchen remodels, or upgrades"
+                ]
+            },
+            {
+                "category": "repair",
+                "name": "Chimney Check Up",
+                "originalPrice": 350,
+                "price": 250,
+                "duration": "1-2 hours",
+                "features": [
+                    "Diagnostic tools and visual inspection",
+                    "When Needed: Every 6-12 months to ensure optimal performance and safety"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "slug": "water-purifier-service",
+        "name": "Water Purifier Service",
+        "title": "Professional Water Purifier Service",
+        "description": "Expert water purifier maintenance and repair",
+        "full_description": "Complete water purifier service including filter replacement, membrane cleaning, and RO servicing for all brands.",
+        "keywords": "water purifier service, purifier maintenance, RO service, water filter replacement",
+        "min_price": 299,
+        "max_price": 899,
+        "image": "/images/services/water-purifier.jpg",
+        "type": "Product",
+        "serviceName": "Water Purifier Service On Location",
+        "aggregateRating": {
+            "type": "AggregateRating",
+            "ratingValue": "4.8",
+            "reviewCount": 445876
+        },
+        "issues": [
+            "Poor water flow",
+            "Bad taste or smell",
+            "Leakage",
+            "Filter change needed",
+            "RO membrane replacement"
+        ],
+        "brands": [
+            "Kent",
+            "Aquaguard",
+            "Pureit",
+            "Livpure",
+            "Blue Star",
+            "AO Smith"
+        ]
+    },
+    {
+        "id": 7,
+        "slug": "geyser-repair",
+        "name": "Geyser Repair",
+        "title": "Professional Geyser Repair",
+        "description": "Expert water heater repair and maintenance",
+        "full_description": "Professional geyser repair including heating element replacement, temperature control, leakage fix, and maintenance.",
+        "keywords": "geyser repair, water heater service, geyser maintenance, geyser installation",
+        "min_price": 349,
+        "max_price": 1199,
+        "image": "/images/services/geyser.jpg",
+        "type": "Product",
+        "serviceName": "Geyser Service On Location",
+        "aggregateRating": {
+            "type": "AggregateRating",
+            "ratingValue": "4.7",
+            "reviewCount": 356789
+        },
+        "issues": [
+            "Not heating water",
+            "Water leakage",
+            "Strange noise",
+            "Thermostat issues",
+            "Corrosion"
+        ],
+        "brands": [
+            "Bajaj",
+            "Racold",
+            "AO Smith",
+            "Crompton",
+            "Havells",
+            "V-Guard"
+        ]
+    },
+    {
+        "id": 8,
+        "slug": "microwave-repair",
+        "name": "Microwave Repair",
+        "title": "Professional Microwave Repair",
+        "description": "Expert microwave repair and maintenance services",
+        "full_description": "Complete microwave repair including magnetron replacement, heating issues, turntable repair, and control panel fixes.",
+        "keywords": "microwave repair, microwave service, microwave maintenance",
+        "min_price": 299,
+        "max_price": 899,
+        "image": "/images/services/microwave.jpg",
+        "type": "Product",
+        "serviceName": "Microwave Service On Location",
+        "aggregateRating": {
+            "type": "AggregateRating",
+            "ratingValue": "4.6",
+            "reviewCount": 321045
+        },
+        "issues": [
+            "Not heating",
+            "Turntable not rotating",
+            "Display not working",
+            "Making noise",
+            "Door problem"
+        ],
+        "brands": [
+            "LG",
+            "Samsung",
+            "IFB",
+            "Panasonic",
+            "Whirlpool",
+            "Bajaj"
+        ]
+    }
+]
