@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "service": "ac-repair",
+        "question": "How much does AC repair cost in Kolkata?",
+        "answer": "AC repair costs in Kolkata start from ₹299. The final price depends on the issue severity and work required. Call for a free inspection and quote.",
+        "priority": 1
+    },
+    {
+        "id": 2,
+        "service": "ac-repair",
+        "question": "How quickly can you fix my AC?",
+        "answer": "We provide same-day service for most AC issues. For emergency repairs, we arrive within 30 minutes in central Kolkata areas.",
+        "priority": 1
+    },
+    {
+        "id": 3,
+        "service": "ac-repair",
+        "question": "Do you provide AC gas refilling?",
+        "answer": "Yes, we provide AC gas refilling service. We use certified and genuine refrigerant for all AC units.",
+        "priority": 2
+    },
+    {
+        "id": 4,
+        "service": "washing-machine-repair",
+        "question": "What's included in washing machine repair?",
+        "answer": "Our service includes diagnosis, repair/replacement of faulty parts, testing, and warranty on completed work.",
+        "priority": 1
+    },
+    {
+        "id": 5,
+        "service": "washing-machine-repair",
+        "question": "How long does washing machine repair take?",
+        "answer": "Most repairs take 1-2 hours. Complex repairs may take longer. We provide same-day service whenever possible.",
+        "priority": 2
+    },
+    {
+        "id": 6,
+        "service": "refrigerator-repair",
+        "question": "Why is my refrigerator not cooling?",
+        "answer": "Common causes include compressor issues, refrigerant leak, or thermostat problems. We diagnose and fix all cooling issues.",
+        "priority": 1
+    },
+    {
+        "id": 7,
+        "service": "geyser-repair",
+        "question": "How often should I service my geyser?",
+        "answer": "We recommend annual geyser servicing to ensure efficiency and longevity. Regular maintenance prevents major breakdowns.",
+        "priority": 2
+    },
+    {
+        "id": 8,
+        "service": "water-purifier-service",
+        "question": "When should I replace water purifier filters?",
+        "answer": "Filter replacement depends on water quality and usage. Generally every 6-12 months. We provide timely reminders.",
+        "priority": 2
+    }
+]
