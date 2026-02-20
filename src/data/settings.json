@@ -1,0 +1,130 @@
+{
+    "site": {
+        "name": "sharkcool",
+        "tagline": "Fast & Reliable Home Appliance Repair",
+        "description": "Professional home appliance repair services in Kolkata. Expert repair for refrigerators, washing machines, AC, microwave, and more.",
+        "url": "https:\/\/www.sharkcool.in",
+        "logo": "src\/images\/logo.png",
+        "favicon": "favicon.ico"
+    },
+    "contact": {
+        "phone": {
+            "primary": "+91 6291228492",
+            "secondary": "+91 6291228492",
+            "whatsapp": "+91 6291228492"
+        },
+        "email": {
+            "primary": "info@quick2service.com",
+            "support": "support@quick2service.com",
+            "privacy": "privacy@quick2service.com"
+        },
+        "address": {
+            "street": "123, Park Street",
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "pincode": "700016",
+            "country": "India",
+            "full": "123, Park Street, Kolkata - 700016, West Bengal, India"
+        },
+        "social": {
+            "facebook": "https:\/\/facebook.com\/quick2service",
+            "instagram": "https:\/\/instagram.com\/quick2service",
+            "twitter": "https:\/\/twitter.com\/quick2service",
+            "youtube": "https:\/\/youtube.com\/@quick2service",
+            "linkedin": "https:\/\/linkedin.com\/company\/quick2service"
+        }
+    },
+    "businessHours": {
+        "monday": "8:00 AM - 8:00 PM",
+        "tuesday": "8:00 AM - 8:00 PM",
+        "wednesday": "8:00 AM - 8:00 PM",
+        "thursday": "8:00 AM - 8:00 PM",
+        "friday": "8:00 AM - 8:00 PM",
+        "saturday": "8:00 AM - 8:00 PM",
+        "sunday": "9:00 AM - 6:00 PM",
+        "display": "Mon-Sat: 8AM-8PM, Sun: 9AM-6PM",
+        "emergencyAvailable": true
+    },
+    "serviceAreas": [
+        "Agarpara",
+        "Alipore",
+        "Ballygunge",
+        "Baguihati",
+        "Bally",
+        "Baranagar",
+        "Barasat",
+        "Behala",
+        "Belgharia",
+        "Bhatpara",
+        "Budge Budge",
+        "Dum Dum",
+        "Garden Reach",
+        "Howrah",
+        "Jadavpur",
+        "Kasba",
+        "Lake Town",
+        "New Town",
+        "Park Street",
+        "Salt Lake"
+    ],
+    "features": {
+        "sameDayService": true,
+        "warrantyDays": 90,
+        "minimumInspectionFee": 299,
+        "emergencyService": true,
+        "onlineBooking": true,
+        "paymentMethods": [
+            "Cash",
+            "UPI",
+            "Card",
+            "Digital Wallets"
+        ]
+    },
+    "seo": {
+        "keywords": [
+            "appliance repair Kolkata",
+            "refrigerator repair",
+            "washing machine repair",
+            "AC repair Kolkata",
+            "home appliance service",
+            "Quick2Service",
+            "appliance repair near me"
+        ],
+        "ogImage": "src\/images\/og-image.jpg",
+        "twitterCard": "summary_large_image"
+    },
+    "analytics": {
+        "googleAnalyticsId": "UA-XXXXXXXXX-X",
+        "facebookPixelId": "XXXXXXXXXXXXXXX",
+        "enabled": true
+    },
+    "booking": {
+        "maxAdvanceBookingDays": 30,
+        "minNoticeHours": 2,
+        "cancellationFeeHours": 2,
+        "slotDuration": 60,
+        "availableSlots": [
+            "9:00 AM",
+            "10:00 AM",
+            "11:00 AM",
+            "12:00 PM",
+            "1:00 PM",
+            "2:00 PM",
+            "3:00 PM",
+            "4:00 PM",
+            "5:00 PM",
+            "6:00 PM"
+        ]
+    },
+    "stats": {
+        "totalBookings": "1037+",
+        "happyReviews": "1337+",
+        "yearsExperience": "7+",
+        "satisfactionRate": "98%"
+    },
+    "theme": {
+        "primaryColor": "#2563eb",
+        "secondaryColor": "#10b981",
+        "darkMode": false
+    }
+}
